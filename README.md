@@ -3,4 +3,4 @@
 
  Mudança Remota
 
- Alterandoe testando
+ Alterando e testando
